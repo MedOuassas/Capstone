@@ -56,9 +56,9 @@ const GuestSelector = ({ chooseGuest }) => {
                         <CgMathPlus className='guest-increment' onClick={increment}/>                        
                     </div>
                 { // Conditional rendering based on guest count
-                    guest <= 1 && (<span style={style}>{warning}</span>)
+                    (guest <= 1 && (<span style={style}>{warning}</span>))
                         ||
-                    guest >= 6 && (<span style={style}>{warning}</span>) 
+                    (guest >= 6 && (<span style={style}>{warning}</span>))
                 }
 
             </div>

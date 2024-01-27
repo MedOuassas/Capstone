@@ -47,7 +47,7 @@ const About = () => {
                         style=
                         { 
                             {
-                                backgroundImage: `url(${aboutData.image2})`
+                                backgroundImage: `url(${aboutData.image1})`
                             } 
                         } 
                     />

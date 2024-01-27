@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/capstone/static/css/main.4ca4d8b1.css",
+    "main.js": "/capstone/static/js/main.674d796c.js",
+    "static/js/787.53414382.chunk.js": "/capstone/static/js/787.53414382.chunk.js",
+    "static/media/MarioandAdrianb.jpg": "/capstone/static/media/MarioandAdrianb.6ba0e06bfa9c1ea75109.jpg",
+    "static/media/bruchetta.svg": "/capstone/static/media/bruchetta.ec4950d4eabf4293f4120e3b6c48b7cf.svg",
+    "static/media/restaurantChefB.jpg": "/capstone/static/media/restaurantChefB.4b4c2d26b514db32e8fc.jpg",
+    "static/media/greekSalad.jpg": "/capstone/static/media/greekSalad.bed423a1fab5b210e347.jpg",
+    "static/media/underConstruction.PNG": "/capstone/static/media/underConstruction.faed558edc62752230a6.PNG",
+    "static/media/restaurant.jpg": "/capstone/static/media/restaurant.7dede8c3c9a362456d8a.jpg",
+    "static/media/Logo.svg": "/capstone/static/media/Logo.2c379c7ea7eb07402bfc7700915316de.svg",
+    "static/media/MarioandAdrianA.jpg": "/capstone/static/media/MarioandAdrianA.1f403d3d0977be2f9221.jpg",
+    "static/media/newrecipie.jpeg": "/capstone/static/media/newrecipie.3a4725cb6d71bc22e59b.jpeg",
+    "index.html": "/capstone/index.html",
+    "main.4ca4d8b1.css.map": "/capstone/static/css/main.4ca4d8b1.css.map",
+    "main.674d796c.js.map": "/capstone/static/js/main.674d796c.js.map",
+    "787.53414382.chunk.js.map": "/capstone/static/js/787.53414382.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ca4d8b1.css",
+    "static/js/main.674d796c.js"
+  ]
+}
